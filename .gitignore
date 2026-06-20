@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.DS_Store
+package-lock.json
+*.lnk
+*.tmp
+temp/
+dist/
+out/

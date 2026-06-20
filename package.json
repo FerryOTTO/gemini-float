@@ -1,0 +1,22 @@
+{
+  "name": "gemini-float",
+  "version": "1.0.0",
+  "description": "Gemini 悬浮小窗客户端 - 专属于 Windows 的极致体验",
+  "main": "main.js",
+  "scripts": {
+    "start": "node start.cjs",
+    "dev": "node start.cjs"
+  },
+  "keywords": [
+    "gemini",
+    "electron",
+    "floating-window",
+    "windows"
+  ],
+  "author": "You",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron/asar": "^4.2.0",
+    "electron": "^28.3.3"
+  }
+}
